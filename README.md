@@ -1,15 +1,19 @@
-# Basic Sample Hardhat Project
+# Wave portal by Nizar Baihaqi with [🦄 Buildspace](https://buildspace.so)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is created by Nizar Baihaqi with help from Buildspace team.
 
-Try running some of the following tasks:
+Clone this project and make your own app.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+1. Download the zip file or fork this repo
+
+2. Start `npm install` in your terminal
+
+3. While you wait add `.env` file to your root directory, the example is in the `.env.example`. Make sure you have set up project in alchemy or other smart contract provider.
+
+4. Once finished. try `node scripts/run.js`, if working properly you can deploy the smart contract with `node scripts/deploy.js`
+
+Finished project you can try is [Wave Portal 👋](https://nqrz-wave-portal.herokuapp.com)
+
+Please take a look to [🦄 Buildspace](https://buildspace.so) web to start from scratch 
+
+Visit my personal website [Nizar Baihaqi](https://nizarbaihaqi.com)
